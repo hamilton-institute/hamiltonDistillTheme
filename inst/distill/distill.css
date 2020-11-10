@@ -1,0 +1,23 @@
+.brand-link {
+    font-size: 1.1em !important;
+    line-height: 2.05em !important;
+}
+
+.card-title {
+  color: #164b53 !important;
+}
+
+.btn-light {
+    color: #164b53 !important;
+    background-color: #fff !important;
+    border-color: #164b53 !important;
+}
+
+.irs-single,  .irs-bar-edge, .irs-bar {
+  background: #046874 !important;
+  border-color: #046874 !important;
+}
+
+body {
+  font-size: 0.85em !important;
+}
