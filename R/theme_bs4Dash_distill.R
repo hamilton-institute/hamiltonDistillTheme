@@ -121,6 +121,7 @@ use_bs4Dash_distill_css <- function() {
 #'    )
 #' }
 #'
+#' @export
 bs4dash_distill_footer <- function(year = NULL) {
   if (is.null(year)) {
     year <- lubridate::year(Sys.Date())
